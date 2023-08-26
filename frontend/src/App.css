@@ -31,7 +31,11 @@
     border: 1px solid skyblue;
 }
 
-.register {
+.register  {
+  margin-left: 30%;
+}
+
+.products {
   margin-left: 30%;
 }
 
@@ -43,6 +47,25 @@
   border: 1px solid red;
   /* border-radius: 25%; */
   cursor: pointer;
+}
+
+.login {
+    margin-left: 30%;
+    margin-top: 100px;
+}
+
+.nav-right {
+  text-align: right;
+}
+
+.logo {
+  height: 45px;
+  width: 45px;
+  float: left;
+  border-radius: 50%;
+  margin-top: 3px;
+  margin-left: 20px;
+
 }
 
 /* .App {

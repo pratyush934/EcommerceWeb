@@ -68,6 +68,38 @@
 
 }
 
+.invalid-input {
+  color: red;
+  margin-top: -20px;;
+  display: block;
+  margin-left: 20px;
+}
+
+.product-list {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.product-list ul li {
+  display: inline-block;
+  border: 1px solid skyblue;
+  padding: 10px;
+  width: 150px;
+
+}
+
+.product-list ul {
+  margin: 0px;
+}
+
+.search {
+  width: 400px;
+  margin: 20px;
+  height: 40px;
+  border: 1px, solid skyblue;
+  padding-left: 20px;
+}
+
 /* .App {
   text-align: center;
 } */
